@@ -1,5 +1,3 @@
-# demo
-just tryin things out
 <!DOCTYPE html>
 <html>
     <head>
